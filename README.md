@@ -1,15 +1,15 @@
-# Harsh Marolia&nbsp;<img src="https://github.com/HarshMarolia/HarshMarolia/tree/main/Assets/wave.gif" width="30px">
+# Harsh Marolia&nbsp;<img src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/wave.gif" width="30px">
 
-### <img src="https://github.com/HarshMarolia/HarshMarolia/tree/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/HarshMarolia/HarshMarolia/tree/main/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/Earth.gif" width="24px">
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="320" />
 <p>
   <em>
     I am a junior Computer Science undergraduate from <a href="https://www.juet.ac.in/"> <b>Jaypee University Of Engineering And Technology</b>, Guna</a>. <br>
-    A budding <b>Software Developer</b> <img src="https://github.com/HarshMarolia/HarshMarolia/tree/main/Assets/Developer.gif" width="30px"> who is <b>obsessed</b>
+    A budding <b>Software Developer</b> <img src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/Developer.gif" width="30px"> who is <b>obsessed</b>
     with creating technology, full stack development, data structures and algorithms, modile developement
     with the idea of <b>improving</b> himself and wanting <b>platform</b> to 
     <b>grow</b> and 
-    <b>excel each day.</b> <img src="https://github.com/HarshMarolia/HarshMarolia/tree/main/Assets/Medal.gif" width="20px">
+    <b>excel each day.</b> <img src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/Medal.gif" width="20px">
     <br>
   </em>  
 </p>
@@ -39,18 +39,18 @@
 
 <br>
 
-# Connect with me<img src="https://github.com/HarshMarolia/HarshMarolia/tree/main/Assets/Handshake.gif" height="32px">
+# Connect with me<img src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/harsh-marolia-232757197/">
-    <img align="left" alt="Harsh Marolia | Linkedin" width="24px" src="https://github.com/HarshMarolia/HarshMarolia/tree/main/Assets/Linkedin.svg" />
+    <img align="left" alt="Harsh Marolia | Linkedin" width="24px" src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/MaroliaHarsh">
-    <img align="left" alt="Harsh Marolia | Twitter" width="26px" src="https://github.com/HarshMarolia/HarshMarolia/tree/main/Assets/Twitter.svg" />
+    <img align="left" alt="Harsh Marolia | Twitter" width="26px" src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/Twitter.svg" />
   </a>
   <a href="mailto:maroliaharsh@gmail.com">
-    <img align="left" alt="Harsh Marolia | Gmail" width="26px" src="https://github.com/HarshMarolia/HarshMarolia/tree/main/Assets/Gmail.svg" />
+    <img align="left" alt="Harsh Marolia | Gmail" width="26px" src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/Gmail.svg" />
   </a>
-  <a href="https://harshmarolia.netlify.app/"><img src="https://github.com/HarshMarolia/HarshMarolia/tree/main/Assets/Earth.gif" width="24px"></a>
+  <a href="https://harshmarolia.netlify.app/"><img src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/Earth.gif" width="24px"></a>
 
 <br><br><br>
 
