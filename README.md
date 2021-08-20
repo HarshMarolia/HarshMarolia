@@ -1,7 +1,7 @@
 # Harsh Marolia&nbsp;<img src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/wave.gif" width="30px">
 
 ### <img src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/Earth.gif" width="24px">
-<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="400" height="320" />
 <p>
   <em>
     I am a junior Computer Science undergraduate from <a href="https://www.juet.ac.in/"> <b>Jaypee University Of Engineering And Technology</b>, Guna</a>. <br>
