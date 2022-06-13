@@ -1,57 +1,19 @@
-# Harsh Marolia&nbsp;<img src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/wave.gif" width="30px">
+# 💫About Me :
+ I am a Computer Science undergraduate from <a href="https://www.juet.ac.in/"> <b>Jaypee University Of Engineering And Technology</b>, Guna</a>. <br> A budding <b>Software Developer</b> who is <b>obsessed</b>
+ with creating technology, full stack development, data structures and algorithms, with the idea of <b>improving</b> himself and wanting <b>platform</b> to 
+<b>grow</b> and <b>excel each day.</b>
 
-### <img src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/Earth.gif" width="24px">
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="400" height="320" />
-<p>
-  <em>
-    I am a junior Computer Science undergraduate from <a href="https://www.juet.ac.in/"> <b>Jaypee University Of Engineering And Technology</b>, Guna</a>. <br>
-    A budding <b>Software Developer</b> <img src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/Developer.gif" width="30px"> who is <b>obsessed</b>
-    with creating technology, full stack development, data structures and algorithms, modile developement
-    with the idea of <b>improving</b> himself and wanting <b>platform</b> to 
-    <b>grow</b> and 
-    <b>excel each day.</b> <img src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/Medal.gif" width="20px">
-    <br>
-  </em>  
-</p>
-<br>
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-marolia-232757197) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MaroliaHarsh) 
+<a href="mailto:maroliaharsh@gmail.com"><img alt="Harsh Marolia | Gmail" width="26" src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/Gmail.svg" /></a>
+  <a href="https://harshmarolia.netlify.app/"><img src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/Earth.gif" width="24"></a>
 
-### 🔨 Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="42"></a></code>
-<code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="42"></a></code>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="42"></a></code>
-<code><a href="https://nodejs.org/en/"><img alt="Node.js" title="Node.js" src="https://github.com/cheesits456/cheesits456/raw/master/icons/node.png" height="42"></a></code>
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=HarshMarolia&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HarshMarolia&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshMarolia&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br><br>
-
-
-<br>
-
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=HarshMarolia&show_icons=true&hide_border=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshMarolia&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
-<br>
-
-# Connect with me<img src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/Handshake.gif" height="32px">
-
-  <a href="https://www.linkedin.com/in/harsh-marolia-232757197/">
-    <img align="left" alt="Harsh Marolia | Linkedin" width="24px" src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/MaroliaHarsh">
-    <img align="left" alt="Harsh Marolia | Twitter" width="26px" src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/Twitter.svg" />
-  </a>
-  <a href="mailto:maroliaharsh@gmail.com">
-    <img align="left" alt="Harsh Marolia | Gmail" width="26px" src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/Gmail.svg" />
-  </a>
-  <a href="https://harshmarolia.netlify.app/"><img src="https://github.com/HarshMarolia/HarshMarolia/blob/main/Assets/Earth.gif" width="24px"></a>
-
-<br><br><br>
-
-**⭐️ From [Harsh Marolia](https://github.com/HarshMarolia)**
+---
+[![](https://visitcount.itsvg.in/api?id=HarshMarolia&icon=0&color=0)](https://visitcount.itsvg.in)
